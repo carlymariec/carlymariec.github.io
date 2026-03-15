@@ -1,4 +1,3 @@
-```
 # Carlymc | Paralegal Professional
 
 ## ⚖️ Professional Profile
@@ -7,8 +6,8 @@ Detail-oriented and research-focused Paralegal Student with a strong foundation 
 ---
 
 ## 📚 Core Competencies
-*   **Legal Research & Writing:** Proficient in drafting legal memoranda, case briefs, and synthesizing complex case law.
-*   **Litigation Support:** Experienced in civil litigation procedures and criminal justice documentation.
+*  **Legal Research & Writing**:** Proficient in drafting legal memoranda, case briefs, and synthesizing complex case law.
+*  **Litigation Support:** Experienced in civil litigation procedures and criminal justice documentation.
 *   **Technical Proficiency:** Tech-savvy approach to legal databases, document management, and digital security.
 *   **Methodology:** Dedicated to the IRAC (Issue, Rule, Analysis, Conclusion) framework for all legal assignments.
 
@@ -32,4 +31,3 @@ View my professional portfolio and educational milestones here:
 
 ---
 *Note: All documents and samples provided in this repository have been sanitized and redacted to protect client confidentiality and personal privacy.*
-```
