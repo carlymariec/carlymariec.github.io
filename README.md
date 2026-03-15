@@ -28,7 +28,7 @@ My approach to the legal profession is rooted in the belief that justice is serv
 
 ## 🌐 Portfolio
 View my professional portfolio and educational milestones here:
-[https://carlymc.github.io](https://carlymc_portfolio.github.io)
+[https://carlymariec.github.io](https://carlymariec.github.io)
 
 ---
 *Note: All documents and samples provided in this repository have been sanitized and redacted to protect client confidentiality and personal privacy.*
