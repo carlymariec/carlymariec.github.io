@@ -1,59 +1,35 @@
-## Hi there 👋
+```
+# Carlymc | Paralegal Professional
+
+## ⚖️ Professional Profile
+Detail-oriented and research-focused Paralegal Student with a strong foundation in legal analysis, civil litigation, and criminal justice. I leverage technology to streamline legal workflows and ensure procedural accuracy. My work is defined by the rigorous application of the IRAC method and a commitment to objective, high-quality legal research.
 
 ---
 
-## Carly Marie Cheney
-
-**UX Engineer | AI Product Strategist | Python Developer**
-
-I am a self-directed developer and researcher focused on **Information Architecture** and **Human-Centered AI**. I specialize in building tools that translate high-stakes, unstructured data into clear, objective narratives.
-
----
-
-### 👤 About Me: The Self-Directed Edge
-
-My background is built on a foundation of independent, rigorous study. Without a traditional classroom, I have cultivated a disciplined approach to project management and technical mastery:
-
-* **Rapid Upskilling:** Independently mastered a production-grade Python stack, moving from basic scripts to complex NLP and forensic data pipelines.
-* **Meticulous Documentation:** I treat my READMEs and code comments as a user interface—ensuring my logic is transparent and my environments are 100% reproducible.
-* **Domain Expertise:** I don't just write code; I research the "why." My work is deeply grounded in legal research (North Dakota jurisdiction) and behavioral ethics.
+## 📚 Core Competencies
+*   **Legal Research & Writing:** Proficient in drafting legal memoranda, case briefs, and synthesizing complex case law.
+*   **Litigation Support:** Experienced in civil litigation procedures and criminal justice documentation.
+*   **Technical Proficiency:** Tech-savvy approach to legal databases, document management, and digital security.
+*   **Methodology:** Dedicated to the IRAC (Issue, Rule, Analysis, Conclusion) framework for all legal assignments.
 
 ---
 
-### 🛡️ Featured Project: Coercive Control Analyzer
-
-**UX Challenge:** How do you help a user identify subtle, dangerous patterns in 1,000+ pages of communication logs without causing "analysis paralysis"?
-
-* **The Solution:** A Python-based diagnostic tool that uses `NLTK` and `scikit-learn` to map behavioral cycles.
-* **The Interface:** I use `Matplotlib` and `Seaborn` to create data visualizations that act as a "cognitive shortcut," allowing users to see frequency and intensity at a glance.
-* **Technical Rigor:** Built with a strict dependency manifest (`pdfForensic`, `pandas>=2.0.0`) to ensure reliability in legal contexts.
+## 🚀 Philosophy of Practice
+My approach to the legal profession is rooted in the belief that justice is served through precision, efficiency, and unwavering ethical standards. I view the law as a system of logic. My work is driven by a commitment to providing the high-level support necessary to navigate complex legal landscapes, ensuring that attorneys have the clear, actionable data they need to advocate effectively for their clients.
 
 ---
 
-### 🛠️ Technical Stack (Validated Builds)
-
-| Category | Library | UX & Product Application |
-| -------- | :-----: | ------------------------ |
-| Data Engine | pandas, numpy | Structuring and querying complex legal evidence datasets. |
-| Deep Forensics | pdfForensic | Structural Integrity: Detecting anomalies and hidden metadata in legal filings. |
-| Logic Layer | Boltons | "Extending the standard library for robust, industrial-strength data structures." |
-| NLP & Analysis | nltk, textblob, gemini api | Sentiment and intent mapping to reveal behavioral narratives. |
-| Pattern Discovery | scikit-learn | Identifying cycles of coercive control through statistical modeling. |
-| Data Storytelling | matplotlib, seaborn, wordcloud | Visualizing frequency and intensity to reduce user cognitive load. |
-| Security & Trust | cryptography, python-dotenv | Ensuring data privacy and ethical handling of sensitive information. |
-| Interface/Ops | click, Jinja2 | "Designing intuitive CLI tools and automated, templated reporting." |
+## 🛠 Technical Skills
+*   **Legal Tech:** LexisNexis, MS Office Suite, Adobe Acrobat Pro,vLex.
+*   **Digital Security:** Committed to data privacy, metadata sanitization, and secure document handling.
+*   **Workflow:** Efficient in remote collaboration and digital document management.
 
 ---
 
-### 🔭 Interests & Research
-
-* **Data Storytelling:** Visualizing the trajectory of the **3I/ATLAS** comet using astronomical datasets.
-* **Legal UX:** Streamlining the interaction between pro se litigants and judicial filing requirements.
-
----
-
-### 📫 Let's Connect
-
-I value professional, neutral, and high-signal communication. I am looking for a team that values a developer who can think like a user and execute like a scientist.
+## 🌐 Portfolio
+View my professional portfolio and educational milestones here:
+[https://carlymc.github.io](https://carlymc_portfolio.github.io)
 
 ---
+*Note: All documents and samples provided in this repository have been sanitized and redacted to protect client confidentiality and personal privacy.*
+```
