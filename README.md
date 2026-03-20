@@ -1,7 +1,7 @@
-# Carlymc | Paralegal Professional
+# Carly Marie | Paralegal Student
 
 ## ⚖️ Professional Profile
-Detail-oriented and research-focused Paralegal Student with a strong foundation in legal analysis, civil litigation, and criminal justice. I leverage technology to streamline legal workflows and ensure procedural accuracy. My work is defined by the rigorous application of the IRAC method and a commitment to objective, high-quality legal research.
+Detail-oriented and research-focused Paralegal Student pursuing an Associate in Applied Science in Paralegal Studies, with a strong foundation in legal analysis, civil litigation, and criminal justice, maintaining a 3.8 GPA. I leverage technology to streamline legal workflows and ensure procedural accuracy. My work is defined by the rigorous application of the IRAC method and a commitment to objective, high-quality legal research.
 
 ---
 
@@ -19,7 +19,7 @@ My approach to the legal profession is rooted in the belief that justice is serv
 ---
 
 ## 🛠 Technical Skills
-*   **Legal Tech:** LexisNexis, MS Office Suite, Adobe Acrobat Pro,vLex.
+*   **Legal Tech:** LexisNexis, MS Office Suite, Adobe Acrobat Pro, vLex.
 *   **Digital Security:** Committed to data privacy, metadata sanitization, and secure document handling.
 *   **Workflow:** Efficient in remote collaboration and digital document management.
 
@@ -27,7 +27,7 @@ My approach to the legal profession is rooted in the belief that justice is serv
 
 ## 🌐 Portfolio
 View my professional portfolio and educational milestones here:
-[https://carlymariec.github.io](https://carlymariec.github.io)
+[View my Professional Portfolio](https://carlymariec.github.io/proportfolio.github.io/)
 
 ---
 *Note: All documents and samples provided in this repository have been sanitized and redacted to protect client confidentiality and personal privacy.*
