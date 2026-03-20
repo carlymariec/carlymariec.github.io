@@ -1,7 +1,7 @@
-# Carly Marie | Paralegal Professional
+# Carly Marie | Paralegal Student
 
 ## ⚖️ Professional Profile
-Detail-oriented and research-focused entry-level paralegal professional with a strong foundation in legal analysis, civil litigation, and criminal justice, maintaining a 3.8 GPA. I leverage technology to streamline legal workflows and ensure procedural accuracy. My work is defined by the rigorous application of the IRAC method and a commitment to objective, high-quality legal research.
+Detail-oriented and research-focused Paralegal Student pursuing an Associate in Applied Science in Paralegal Studies, with a strong foundation in legal analysis, civil litigation, and criminal justice, maintaining a 3.8 GPA. I leverage technology to streamline legal workflows and ensure procedural accuracy. My work is defined by the rigorous application of the IRAC method and a commitment to objective, high-quality legal research.
 
 ---
 
