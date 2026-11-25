@@ -1,7 +1,7 @@
 # Carly Marie Cheney
 
 **Paralegal Studies Student (Dean's List) | Legal-Tech Builder, Data & Document Specialist**  
-**Location:** Fargo–West Fargo, ND (Remote / Flexible Hybrid; Planned Relocation to FL)  
+**Location:** Fargo–West Fargo, ND (Remote / Flexible Hybrid)  
 **GitHub:** [github.com/carlymariec](https://github.com/carlymariec)  
 **Portfolio:** [carlymariec.github.io/portfolio](https://carlymariec.github.io/portfolio/)
 
